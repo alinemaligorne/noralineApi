@@ -1,0 +1,21 @@
+{
+  "name": "noralineapi",
+  "version": "1.0.0",
+  "description": "api phrases chocs par Nora et Aline",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "noralineapi"
+  },
+  "keywords": [
+    "lovelace"
+  ],
+  "author": "Nora & Aline",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
